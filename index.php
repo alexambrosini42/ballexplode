@@ -8,6 +8,8 @@
     <script src="assets/js/scripts.js"></script>
 </head>
 <body onload=playGame()>
-    
+    <div>
+        <h1>Olá mundo</h1>
+    </div>
 </body>
 </html>
