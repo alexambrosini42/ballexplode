@@ -14,5 +14,5 @@ function pop(ball){
 }
 function playGame(){
     addBall()
-  // setInterval(addBall, 2000);
+    setInterval(addBall, 2000);
 }
